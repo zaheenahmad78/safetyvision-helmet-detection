@@ -3,7 +3,11 @@
 
 
 Real-time helmet detection system for construction sites using YOLOv8.
+## 🚀 Live Demo
 
+**Try the app here:** [SafetyVision AI - Live App](https://safetyvision-helmet-detection-snexrn4ojvvymvx9yjin2e.streamlit.app/)
+
+Upload any construction site image to detect helmet safety violations in real-time!
 
 
 \## 🚀 Features
