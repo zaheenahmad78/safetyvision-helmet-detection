@@ -54,4 +54,4 @@ if uploaded_file is not None:
         if helmet_count < person_count:
             st.error("⚠️ WARNING: Workers without helmets detected!")
         else:
-            st.success("🎉 All safe!")s
+            st.success("🎉 All safe!")
