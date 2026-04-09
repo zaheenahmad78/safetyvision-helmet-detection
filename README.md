@@ -4,7 +4,12 @@ Real-time helmet detection system for construction sites using YOLOv8 and Stream
 
 ## 🚀 Live Demo
 Screenshot 2026-03-31 210414.png
-**Try it now:** [SafetyVision AI Live App](https://safetyvision-helmet-detection-snexrn4ojvvymvx9yjin2e.streamlit.app/)
+## 🚀 Live Demo
+
+✅ **App is live and working!**  
+👉 [Click here to try SafetyVision AI - Helmet Detection](https://safetyvision-helmet-detection.onrender.com)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://safetyvision-helmet-detection.onrender.com)
 SafetyVision AI and 1 more page - Profile 1 - Microsoft_ Edge 2026-03-31 21-24-57 (1) (1).mp4
 
 ## 📋 Features
